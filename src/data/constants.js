@@ -4,7 +4,7 @@ export const Bio = {
     "Data Scientist",
     "Data Analyst",
     "ML Engineer",
-    "Business Analyst",
+    "Python Developer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -449,7 +449,7 @@ export const projects = [
     tags: ["Python", "Matplotlib", "Scikit-learn", "Seaborn", "Pandas", "Numpy"],
     category: "machine learning",
     github: "https://github.com/ayush8587/whatsapp-chat-analyzer",
-    webapp: "https://github.com/ayush8587/whatsapp-chat-analyzer",
+    // webapp: "https://github.com/ayush8587/whatsapp-chat-analyzer",
   },
   {
     id: 2,
@@ -462,7 +462,7 @@ export const projects = [
     tags: ["React Js", "HTML", "CSS", "Motoko", "Blockchain"],
     category: "web app",
     github: "https://github.com/ayush8587/OPEND",
-    webapp: "https://github.com/ayush8587/OPEND",
+    // webapp: "https://github.com/ayush8587/OPEND",
     member: [
       {
         name: "Ayush Kumar",
@@ -489,7 +489,7 @@ export const projects = [
     tags: ["Python", "OpenCV"],
     category: "machine learning",
     github: "https://github.com/ayush8587/Attendance-Management-System-based-on-Face-Recognition",
-    webapp: "https://github.com/ayush8587/Attendance-Management-System-based-on-Face-Recognition",
+    // webapp: "https://github.com/ayush8587/Attendance-Management-System-based-on-Face-Recognition",
     member: [
       {
         name: "Ayush Kumar",
@@ -516,7 +516,7 @@ export const projects = [
     tags: ["Python", "Scikit-learn", "Keras", "Tensorflow"],
     category: "machine learning",
     github: "https://github.com/ayush8587/Hand_written_Digit_prediction",
-    webapp: "https://github.com/ayush8587/Hand_written_Digit_prediction",
+    // webapp: "https://github.com/ayush8587/Hand_written_Digit_prediction",
   },
   {
     id: 5,
@@ -541,7 +541,7 @@ export const projects = [
       "https://public.tableau.com/static/images/Ne/NewsfeedAnalysis_17207154974390/NewsfeedAnalysis/4_3.png",
     tags: ["Tableau"],
     category: "dashboard",
-    github: "https://public.tableau.com/app/profile/ayush.kumar3246/viz/NewsfeedAnalysis_17207154974390/NewsfeedAnalysis",
+    // github: "https://public.tableau.com/app/profile/ayush.kumar3246/viz/NewsfeedAnalysis_17207154974390/NewsfeedAnalysis",
     webapp: "https://public.tableau.com/app/profile/ayush.kumar3246/viz/NewsfeedAnalysis_17207154974390/NewsfeedAnalysis",
   },
   {
@@ -580,7 +580,7 @@ export const projects = [
       "https://cdn.builder.io/api/v1/image/assets/TEMP/a551c1153b49c18c53859b63c52d2420fb885ef45a1a06b748c01f312f1143ee?apiKey=e45b0f70c98347c389ce2600147aa9f8&",
     tags: ["HTML", "CSS", "JavaScript", "API"],
     category: "web app",
-    github: "https://ayush-weather-webapp.netlify.app/",
+    // github: "https://ayush-weather-webapp.netlify.app/",
     webapp: "https://ayush-weather-webapp.netlify.app/",
   },
   {
@@ -593,7 +593,7 @@ export const projects = [
       "https://cdn.builder.io/api/v1/image/assets/TEMP/9857e6bb9f74ba00f59bd299c309f76265f19ef5ccdaf2b376d7e401ec2ca541?apiKey=e45b0f70c98347c389ce2600147aa9f8&",
     tags: ["MS PowerBI"],
     category: "dashboard",
-    github: "https://lnkd.in/g-YPcGax",
+    // github: "https://lnkd.in/g-YPcGax",
     webapp: "https://lnkd.in/g-YPcGax",
   },
   {
@@ -607,6 +607,19 @@ export const projects = [
     tags: ["Python", "Pandas", "Numpy", "Scikit-learn"],
     category: "machine learning",
     github: "https://github.com/ayush8587/Machine_Learning_Projects",
-    webapp: "https://github.com/ayush8587/Machine_Learning_Projects",
+    // webapp: "https://github.com/ayush8587/Machine_Learning_Projects",
+  },
+    {
+    id: 12,
+    title: "Predictive Analytics for Employee Retention",
+    // date: "Jul 2021",
+    description:
+      "I developed predictive models to analyze employee data and provide actionable insights for the HR department of a large consulting firm. This project involved utilizing data analysis and predictive modeling to identify key factors influencing employee attrition. I implemented regression and machine learning models using Python, Pandas, NumPy, and Scikit-learn, and created visualizations with Matplotlib and Seaborn to effectively communicate findings. Additionally, I addressed ethical considerations related to data privacy and bias in model predictions. This project showcases my ability to leverage data-driven approaches to solve real-world business problems and enhance HR decision-making processes.",
+      image:
+      "https://media.licdn.com/dms/image/D5612AQGHOYRL95DDCA/article-cover_image-shrink_600_2000/0/1688192834895?e=2147483647&v=beta&t=5_gV9PteQxnK1BZpcKMuegVTyy_IsAOZwa2aY0QMQ6Q",
+    tags: ["Python", "Pandas", "Numpy", "Scikit-learn", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+    category: "machine learning",
+    github: "https://github.com/ayush8587/Predictive-Analytics-for-Employee-Retention/blob/main/Predictive%20Analytics%20for%20Employee%20Retention.ipynb",
+    // webapp: "https://github.com/ayush8587/Machine_Learning_Projects",
   },
 ];
