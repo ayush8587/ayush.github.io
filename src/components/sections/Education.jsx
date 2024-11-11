@@ -60,8 +60,8 @@ const Education = () => {
             marginBottom: "40px",
           }}
         >
-          My education has been a journey of self-discovery and growth. My
-          educational details are as follows.
+{/*           My education has been a journey of self-discovery and growth. My
+          educational details are as follows. */}
         </Desc>
 
         <VerticalTimeline>
