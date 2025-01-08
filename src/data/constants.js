@@ -11,10 +11,10 @@ export const Bio = {
   github: "https://github.com/ayush8587",
   // resume:
   //   "https://drive.google.com/file/d/1FM8hUNOrJvr0BfQcL9r4s8NyIt3kqGAp/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/singhayush16/",
-  twitter: "https://twitter.com/RishavChanda",
+  linkedin: "https://www.linkedin.com/in/ayush-kumar-data-analyst",
+  // twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/kumar_ayush_.16/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  // facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
 
 export const skills = [
@@ -285,11 +285,11 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
+    id: 1,
     img: "data:image/png;base64,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",
     role: "Data Analyst Intern",
-    company: "Emitrr",
-    date: "Aug 2024 - Present",
+    company: "Emitrr Technologies Pvt. Ltd.",
+    date: "Aug 2024 - Dec 2024",
     desc: "In my role, I drove a 15% increase in conversions and a 10% ROI uplift by analyzing marketing data and implementing data-driven strategies. Additionally, I optimized budgets, reducing costs by 20% while sustaining performance.",
     // skills: [
     //   "ReactJS",
@@ -302,27 +302,27 @@ export const experiences = [
     // ],
     // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
-  // {
-  //   id: 1,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "DevOps & Fullstack Engineering Intern",
-  //   company: "Flipr Inovations Pvt. Ltd.",
-  //   date: "Aug 2023 - Oct 2023",
-  //   desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
-  //   skills: [
-  //     "Docker",
-  //     "Terraform",
-  //     "AWS",
-  //     "EC2",
-  //     "Portainer",
-  //     "Nginx",
-  //     "JavaScript",
-  //     "TypeScript",
-  //     "Node Js",
-  //     " Next Js",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
-  // },
+  {
+    id: 0,
+    img: "data:image/png;base64,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",
+    role: "Data Analyst",
+    company: "Emitrr Technologies Pvt. Ltd.",
+    date: "Dec 2024 - Present",
+    // desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    // skills: [
+    //   "Docker",
+    //   "Terraform",
+    //   "AWS",
+    //   "EC2",
+    //   "Portainer",
+    //   "Nginx",
+    //   "JavaScript",
+    //   "TypeScript",
+    //   "Node Js",
+    //   " Next Js",
+    // ],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  },
   // {
   //   id: 2,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
