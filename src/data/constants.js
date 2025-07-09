@@ -391,7 +391,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://itsengg.edu.in/images/its%20engineering%20college%20logo.png",
+    img: "https://itsengg.edu.in/public/img/mainlogo.png",
     school: "ITS Engineering College, Greater Noida",
     date: "Nov 2020 - Jun 2024",
     grade: "8.57 CGPA",
